@@ -1,43 +1,80 @@
-<div align="center">
 
-# Neeraj Rajeev | TryHackMe Free-Room Tracker
 
-### Cybersecurity • VAPT • Web Application Security • Security Research
+📌 About This Project
 
-[![GitHub](https://img.shields.io/badge/GitHub-heyneeraj-181717?style=for-the-badge&logo=github)](https://github.com/heyneeraj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeraj%20Rajeev-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neerajrajeev/)
-[![Website](https://img.shields.io/badge/Website-neerajrajeev.in-111111?style=for-the-badge&logo=google-chrome)](https://neerajrajeev.in)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Learn%20by%20Doing-C11111?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/)
+TryHackMe Free Rooms Tracker is a categorized collection of TryHackMe rooms designed to help beginners and cybersecurity enthusiasts improve their practical security skills.
 
-</div>
+This repository provides a simple checklist to track completed rooms, explore different cybersecurity domains, and maintain a structured learning journey.
 
-## About Me
+Whether you're interested in penetration testing, SOC operations, networking, Linux, or web application security, this tracker helps organize your hands-on practice.
 
-I'm **Neeraj Rajeev**, a cybersecurity student and aspiring security researcher focused on **Vulnerability Assessment and Penetration Testing (VAPT), web application security, offensive security, and SOC fundamentals**. I use hands-on labs and CTFs to strengthen my methodology, improve technical reporting, and document what I learn.
+🎯 Project Objectives
 
-- **Focus areas:** VAPT, web application security, reconnaissance, Linux, networking, SOC/blue-team fundamentals, and security research
-- **Hands-on learning:** TryHackMe rooms, CTF challenges, and personal cybersecurity labs
-- **GitHub:** [@heyneeraj](https://github.com/heyneeraj)
-- **LinkedIn:** [neerajrajeev](https://www.linkedin.com/in/neerajrajeev/)
-- **Website:** [neerajrajeev.in](https://neerajrajeev.in)
-- **Cybersecurity community project:** [BITCORE.LABS](https://github.com/heyneeraj)
+Discover free TryHackMe learning rooms.
 
-## About This Repository
+Organize rooms by cybersecurity domain.
 
-A categorized checklist of TryHackMe rooms for structured cybersecurity practice. Use the checkboxes to track your own progress and open each room link for its current access requirements. **Room availability and free access can change**, so verify the room page before starting. This is a learning tracker, not a claim that every listed room is currently free.
+Track completed and pending rooms.
 
-### How to use
+Build practical cybersecurity knowledge.
 
-1. Choose a topic from the table of contents.
-2. Open a room and complete its tasks in your own lab environment.
-3. Change `- [ ]` to `- [x]` after completing a room.
-4. Add your own notes or write-ups separately, without publishing flags, answers, or other restricted room content.
+Support beginners preparing for cybersecurity careers.
 
-> **Ethical practice:** Use the techniques only in authorized labs, CTFs, or systems where you have explicit permission.
+Encourage continuous hands-on learning.
 
----
+📚 Learning Categories
 
-## Table of Content
+Category
+
+Description
+
+Linux
+
+Linux fundamentals and command-line practice
+
+Networking
+
+Network protocols and fundamentals
+
+Web Security
+
+Web application vulnerabilities
+
+OWASP Top 10
+
+Common web security vulnerabilities
+
+VAPT
+
+Vulnerability assessment and penetration testing
+
+Reconnaissance
+
+Information gathering and enumeration
+
+Privilege Escalation
+
+Linux and Windows privilege escalation
+
+Active Directory
+
+Windows domain security
+
+SOC
+
+Security monitoring and incident detection
+
+Cryptography
+
+Encryption and cryptographic concepts
+
+Digital Forensics
+
+Investigation and evidence analysis
+
+CTF
+
+Capture The Flag challenge
 
 ## Table of Contents
 

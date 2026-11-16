@@ -37,6 +37,8 @@ A categorized checklist of TryHackMe rooms for structured cybersecurity practice
 
 ---
 
+## Table of Content
+
 ## Table of Contents
 
 </aside>

@@ -1,4 +1,19 @@
-# 🛡️ TryHackMe Free Rooms Tracker
+<div align="center">
+
+<img src="assets/banner.svg" alt="TryHackMe Free Rooms Tracker" width="100%"/>
+
+<a href="https://tryhackme.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22FF88&center=true&vCenter=true&width=700&lines=Learn+Linux+%26+Networking;Master+Web+Security+%26+OWASP+Top+10;Practice+VAPT+%26+Privilege+Escalation;Train+for+SOC+%26+Digital+Forensics;Track+every+room.+Level+up+daily." alt="Typing animation"/></a>
+
+<br/>
+
+![Platform](https://img.shields.io/badge/Platform-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Rooms](https://img.shields.io/badge/Rooms-700%2B-22ff88?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Beginner%20→%20Advanced-00d4ff?style=for-the-badge)
+![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📌 About This Project
 
@@ -33,6 +48,8 @@ Whether you're interested in penetration testing, SOC operations, networking, Li
 | Cryptography | Encryption and cryptographic concepts |
 | Digital Forensics | Investigation and evidence analysis |
 | CTF | Capture The Flag challenges |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📑 Table of Contents
 

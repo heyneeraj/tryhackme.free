@@ -104,21 +104,7 @@ The catalogue contains **728 room entries** from the supplied source list. Room 
 4. Commit and push your update to GitHub.
 5. Revisit the tracker to continue your learning path.
 
-### Update your progress
 
-```bash
-git clone https://github.com/heyneeraj/tryhackme-free-rooms-tracker.git
-cd tryhackme-free-rooms-tracker
-
-# Edit README.md and mark completed rooms with [x]
-git add README.md
-git commit -m "Update TryHackMe room progress"
-git push
-```
-
-> Replace the repository URL above if you use a different repository name.
-
----
 
 ## Intro Rooms
 
